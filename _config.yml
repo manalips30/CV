@@ -7,16 +7,16 @@ baseurl: '/CV' #change it according to your repository name
 
 # Profile information
 yourname: Rohit Patil  ## put your name
-title: 'GRAPHIC &amp; WEB DESIGNER'  ## your title
+title: 'Software Developer &amp; Deep Learning Engineer'  ## your title
 location: Pune , India
 
 
 ## Social Profiles
-facebook: http://www.facebook.com  ## your facebook account url
-twitter: http://www.twitter.com  ## your twitter account url
-linkedin: http://www.linkedin.com  ## your linkedin account url
-dribbble: http://www.dribble.com  ## you dribbble account url
-foursquare: http://www.foursquare.com  ## your foursquare account url
+facebook: https://www.facebook.com/rohit.patil.77  ## your facebook account url
+twitter: https://twitter.com/Rohitpatil5  ## your twitter account url
+linkedin: https://www.linkedin.com/in/rohitrpatil/  ## your linkedin account url
+#dribbble: http://www.dribble.com  ## you dribbble account url
+#foursquare: http://www.foursquare.com  ## your foursquare account url
 
 
 
