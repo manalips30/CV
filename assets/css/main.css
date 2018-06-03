@@ -731,6 +731,16 @@ h2.resp-accordion:hover {
     border-bottom: 1px solid #DDD;
 }
 
+.title_content_blog {
+    display: inline-block;
+    font-size: 20px;
+    color: #ffffff;
+    text-align: left;
+    width: 100%;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #DDD;
+}
+
 .title_content:after {
     height: 1px;
     display: block;
